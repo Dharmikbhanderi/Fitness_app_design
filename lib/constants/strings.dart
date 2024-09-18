@@ -1,0 +1,10 @@
+const String lblAppTitle = 'Design Demo';
+const String lblIntro = "Hello, Sandra";
+const String lblDummyDate = "Today 18 Set";
+const String lblSelectDate = "Select Date";
+const String lblOk = "OK";
+const String lblCancel = "Cancel";
+const String lblDailyChallenge = "Daily Challenge";
+const String lblSubTitle = 'Do your plan before 09:00 AM';
+const String lblYourPlan = 'Your Plan';
+const String lblNoDate = 'No dates selected';
